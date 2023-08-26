@@ -53,5 +53,6 @@ Abdo ( For giving the Nm key )
 
 Telegram Link: https://t.me/shaystudiolab
 
+<div align='center'>
 
 <p>- We are Team SSLaB LK -</p>
