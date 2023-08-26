@@ -49,6 +49,6 @@ python nm.py
 
 ## :handshake: Credit
 
-Abdo ( Get nm key )
+Abdo ( For giving the Nm key )
 
 Telegram Link: https://t.me/shaystudiolab
