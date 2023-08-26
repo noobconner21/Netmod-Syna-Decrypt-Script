@@ -1,10 +1,7 @@
 <div align='center'>
 
 <h1>Decrypt Netmod Syna File</h1>
-
-
-<img align="right" alt="Coding" width="300" src="https://ibb.co/7tLw1jC")
-
+<h4>By Project SSLaB LK™</h4>
 
 <p>With this script you can decrypt nm file used in netmod syna vpn app.</p>
 
