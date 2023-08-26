@@ -16,10 +16,6 @@
 - [Contact](#handshake-contact)
 
 
-## :star2: About the Project
-
-## :toolbox: Getting Started
-
 ### :gear: Installation
 
 Termux Installation
@@ -57,20 +53,9 @@ python nm.py
 ```
 
 
-## :wave: Contributing
-
-<a href="https://github.com/noobconner21/Netmod-syna-decrypt-script/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
-
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-## :handshake: Contact
+## :handshake: Credit
 
 Master_Shay_C - -
+Abdo
 
-Project Link: [https://github.com/noobconner21/Netmod-syna-decrypt-script](https://github.com/noobconner21/Netmod-syna-decrypt-script)
+Telegram Link: [https://t.me/shaystudiolab]
