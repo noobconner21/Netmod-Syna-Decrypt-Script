@@ -1,19 +1,13 @@
 <div align='center'>
 
-<h1>Decrypt netmod syna File</h1>
+<h1>Decrypt Netmod Syna File</h1>
+
+
 <p>With this script you can decrypt nm file used in netmod syna vpn app.</p>
 
-<h4> <span> · </span> <a href="https://github.com/noobvonner21/Netmod Syna Decrypt Script/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/noobvonner21/Netmod Syna Decrypt Script/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/noobvonner21/Netmod Syna Decrypt Script/issues"> Request Feature </a> </h4>
 
 
 </div>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
 
 
 ### :gear: Installation
@@ -55,7 +49,7 @@ python nm.py
 
 ## :handshake: Credit
 
-Master_Shay_C - -
-Abdo
+Abdo - -
+Dito (Panda_ehi_team) - -
 
 Telegram Link: [https://t.me/shaystudiolab]
