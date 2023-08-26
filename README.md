@@ -52,3 +52,6 @@ python nm.py
 Abdo ( For giving the Nm key )
 
 Telegram Link: https://t.me/shaystudiolab
+
+
+<p>- We are Team SSLaB LK -</p>
