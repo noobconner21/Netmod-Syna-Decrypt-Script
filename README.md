@@ -3,6 +3,9 @@
 <h1>Decrypt Netmod Syna File</h1>
 
 
+<p align="left"> <img src="=https://ibb.co/pdDP0XB" /> </p>
+
+
 <p>With this script you can decrypt nm file used in netmod syna vpn app.</p>
 
 
