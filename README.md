@@ -40,6 +40,10 @@ pip install pycryptodome
 ### Use
 
 ```sh
+cd Netmod-Syna-Decrypt-Script
+```
+
+```sh
 python nm.py
 ```
 
