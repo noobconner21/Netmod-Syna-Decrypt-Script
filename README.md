@@ -1,58 +1,48 @@
-<div align='center'>
+<br/>
+<p align="center">
+  <h3 align="center">Netmod Syna Decrypt Script (nm)</h3>
 
-<h1>Decrypt Netmod Syna File</h1>
-<p>By Project SSLaB LK™</p>
+  <p align="center">
+    With this script you can decrypt nm file used in netmod syna vpn app
+    <br/>
+    <br/>
+    <a href="https://github.com/noobconner21/Netmod-Syna-Decrypt-Script/issues">Report Bug</a>
+    .
+  </p>
+</p>
 
-<p>With this script you can decrypt nm file used in netmod syna vpn app.</p>
+![Downloads](https://img.shields.io/github/downloads/noobconner21/Netmod-Syna-Decrypt-Script/total) ![Contributors](https://img.shields.io/github/contributors/noobconner21/Netmod-Syna-Decrypt-Script?color=dark-green) ![Forks](https://img.shields.io/github/forks/noobconner21/Netmod-Syna-Decrypt-Script?style=social) ![Stargazers](https://img.shields.io/github/stars/noobconner21/Netmod-Syna-Decrypt-Script?style=social) ![Issues](https://img.shields.io/github/issues/noobconner21/Netmod-Syna-Decrypt-Script) ![License](https://img.shields.io/github/license/noobconner21/Netmod-Syna-Decrypt-Script) 
 
 
+## About The Project
 
-</div>
+Yes, I know there are much easier ways to decrypt the file.
+There is a group, there is a mod app but this is my way, I like to write things ,Then we'll see you again with a damn script like this. GG All.......
 
+### Installation
 
-### :gear: Installation
+1. Clone the repo
 
-Termux Installation
-```bash
-pkg install
+```sh
+git clone https://github.com/noobconner21/Netmod-Syna-Decrypt-Script.git
 ```
 
-```bash
+2. Install  packages
+
+```sh
+pkg install python
+```
+```sh
 pip install pycryptodome
 ```
 
+## Usage
 
-### :test_tube: Running Tests
-
-How to use
-```bash
+```sh
 python nm.py
 ```
 
 
-### :running: Run Locally
+## Authors
 
-Clone the project
-
-```bash
-https://github.com/noobconner21/Netmod-syna-decrypt-script
-```
-
-```bash
-cd Netmod-Syna-Decrypt-Script
-```
-
-```bash
-python nm.py
-```
-
-
-## :handshake: Credit
-
-Abdo ( For giving the Nm key )
-
-Telegram Link: https://t.me/shaystudiolab
-
-<div align='center'>
-
-<p>- We are Team SSLaB LK -</p>
+* **Master_Shay_C** - *Software Engineer* - [Master_Shay_C](https://t.me/mastershayc)
