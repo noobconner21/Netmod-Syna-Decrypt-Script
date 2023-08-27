@@ -17,7 +17,8 @@
 ## About The Project
 
 Yes, I know there are much easier ways to decrypt the file.
-There is a group, there is a mod app but this is my way, I like to write things ,Then we'll see you again with a damn script like this. GG All.......
+There is a group, there is a mod app but this is my way, I like to write things
+Then we'll see you again with a damn script like this. GG All.......
 
 ### Installation
 
@@ -36,13 +37,13 @@ pkg install python
 pip install pycryptodome
 ```
 
-## Usage
+### Use
 
 ```sh
 python nm.py
 ```
 
 
-## Authors
+### Authors
 
 * **Master_Shay_C** - *Software Engineer* - [Master_Shay_C](https://t.me/mastershayc)
